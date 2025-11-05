@@ -1,3 +1,3 @@
 # Habibullah Ahmadi blog app
 
-habib-ahmadi-blog-app.vercel.app
+https://habib-ahmadi-blog-app.vercel.app
